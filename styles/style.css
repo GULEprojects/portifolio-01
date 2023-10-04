@@ -35,6 +35,10 @@
     .apresentacao__conteudo{
         width: auto;
     }
+    
+    .apresentacao__links__navegacao{
+        min-width: 205px;
+    }
 }
 
 body {
